@@ -1,4 +1,4 @@
-# DevLinkss
+# DevLinks
 
 Este é um projeto de página web para apresentar informações pessoais e links de contato. O site tem o objetivo de fornecer uma forma simples e elegante para os visitantes acessarem as redes sociais e entrarem em contato com o desenvolvedor.
 
@@ -25,3 +25,8 @@ O projeto é composto por três arquivos:
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias, correções de bugs ou novas funcionalidades.
+
+<div aling="center">
+<a href="https://tbrunok.github.io/Devlinks-Project/">
+    <img src="https://github.com/TbrunoK/Devlinks-Project/blob/main/assets/Finished.png?raw=true"/>
+  </a>
